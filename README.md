@@ -1,7 +1,7 @@
 # clock-lab — preprints
 
 *Transported cell-composition corrections of epigenetic age can add the
-confounding they are meant to remove* — Luan Ivepe, independent researcher.
+confounding they are meant to remove* — Luan Ive Pereira, independent researcher.
 
 - `preprint_en.pdf` — English, the reference version
 - `preprint_pt.pdf` — Portuguese translation
